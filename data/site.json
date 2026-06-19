@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "siteName": "ISNJ IEC School",
+    "tagline": "Academic Excellence and Islamic Values",
+    "heroTitle": "ISNJ Islamic Education Center School",
+    "heroSubtitle": "Serving families in Flanders, NJ with a caring Islamic learning environment.",
+    "address": "Flanders, NJ",
+    "phone": "(000) 000-0000",
+    "email": "info@isnjiec.org",
+    "officeHours": "8:00 AM - 3:00 PM",
+    "schoolHours": "Pre-K & KG: 8:45 AM - 3:00 PM | Grade 1+: 8:00 AM - 3:00 PM",
+    "admissionsStatus": "Registration Open for 2026-2027 School Year"
+  },
+  "pages": {
+    "about": {
+      "title": "About IEC School",
+      "body": "IEC School at ISNJ provides a nurturing environment where students grow academically, spiritually, and socially. Our program combines core academic subjects with Islamic Studies, Quran, and Arabic."
+    },
+    "mission": {
+      "title": "Mission and Vision",
+      "body": "Our mission is to guide students to become confident model citizens who demonstrate academic excellence, strong character, and Islamic values."
+    },
+    "required-documents": {
+      "title": "Required Documents",
+      "body": "Birth certificate, immunization records, previous school records, completed application, and emergency contact information."
+    },
+    "uniform-policy": {
+      "title": "Uniform Policy",
+      "body": "Students are expected to dress modestly and follow the school uniform guidelines. Detailed uniform information can be updated in data/site.json."
+    },
+    "admissions": {
+      "title": "Admissions",
+      "body": "Registration is available on a first come, first served basis. Families are encouraged to submit the admissions form early to secure placement."
+    }
+  },
+  "programs": [
+    {"title": "Academic Curriculum", "description": "Core subjects designed to build strong literacy, math, science, and social studies skills.", "icon": "📖"},
+    {"title": "Islamic Studies", "description": "Daily lessons that help students understand Islamic beliefs, manners, and practices.", "icon": "🕌"},
+    {"title": "Quran & Arabic", "description": "Structured Quran recitation, memorization support, and Arabic language foundations.", "icon": "🌙"},
+    {"title": "Community & Character", "description": "A welcoming school community focused on confidence, service, and good citizenship.", "icon": "🤝"}
+  ],
+  "faqs": [
+    {"question": "What grades does IEC School serve?", "answer": "Update this answer in data/site.json with the current grades offered by the school."},
+    {"question": "What are the school hours?", "answer": "Office hours and school hours can be edited in data/site.json."},
+    {"question": "How do I enroll my child?", "answer": "Complete the admissions form or contact the school office for next steps."}
+  ],
+  "tuition": [
+    {"label": "Registration Fee - New Student", "amount": "TBD", "note": "Update in data/site.json"},
+    {"label": "Registration Fee - Returning Student", "amount": "TBD", "note": "Update in data/site.json"},
+    {"label": "Monthly Tuition", "amount": "TBD", "note": "Update in data/site.json"}
+  ]
+}
