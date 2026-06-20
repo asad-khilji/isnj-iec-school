@@ -1,12 +1,12 @@
 {
   "settings": {
-    "siteName": "ISNJ IEC School",
+    "siteName": "IEC Academy of NJ Inc",
     "tagline": "Academic Excellence and Islamic Values",
-    "heroTitle": "ISNJ Islamic Education Center School",
+    "heroTitle": "IEC Academy of NJ Inc",
     "heroSubtitle": "Serving families in Flanders, NJ with a caring Islamic learning environment.",
     "address": "Flanders, NJ",
     "phone": "(000) 000-0000",
-    "email": "info@isnjiec.org",
+    "email": "info@iec.org",
     "officeHours": "8:00 AM - 3:00 PM",
     "schoolHours": "Pre-K & KG: 8:45 AM - 3:00 PM | Grade 1+: 8:00 AM - 3:00 PM",
     "admissionsStatus": "Registration Open for 2026-2027 School Year"
@@ -14,7 +14,7 @@
   "pages": {
     "about": {
       "title": "About IEC School",
-      "body": "IEC School at ISNJ provides a nurturing environment where students grow academically, spiritually, and socially. Our program combines core academic subjects with Islamic Studies, Quran, and Arabic."
+      "body": "IEC School provides a nurturing environment where students grow academically, spiritually, and socially. Our program combines core academic subjects with Islamic Studies, Quran, and Arabic."
     },
     "mission": {
       "title": "Mission and Vision",
